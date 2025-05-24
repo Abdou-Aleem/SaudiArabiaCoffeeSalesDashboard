@@ -9,9 +9,3 @@ This interactive Excel dashboard presents a comprehensive analysis of synthetic 
 Key metrics such as quantity sold, pricing, discounts, and total sales are visually represented to highlight purchase behavior, pricing trends, and discount impacts.
 
 
-### Excel Skills Used
----
-The following Excel skills were utilized for analysis:<br>
-📉 Charts<br>
-🧮 Formulas and Functions<br>
-❎ Data Validation<br>
